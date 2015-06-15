@@ -2,8 +2,7 @@ This is the codebook for the Getting and Cleaning Data Course Project
 
 The project uses data from the UCI HAR Dataset
 
-Much of the description used in this codebook comes directly from "...."
-
+For detailed information regarding the variables included in this dataset see the files "README.txt","features.txt" and "features_info.txt" included with the original UCI HAR Data set. 
 
 The data set contained in "Mean_HAR.txt" is a table containing 180 observations of 88 variables. The 88 variables contain 1 variable named "Subject" that identifies the subject from which the data are isolated,1 variable named "Activity" that identifies the activity the subject is performing, and 86 variables obtained from the "features.txt" file included with the UCI HAR Dataset based on their names including the term "mean" or "std."
 
