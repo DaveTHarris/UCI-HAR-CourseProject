@@ -48,4 +48,4 @@ colnames(mean_data)[1]<-"Subject"
 colnames(mean_data)[2]<-"Activity"
 
 #Writes a .txt file containing the new data frame
-#write.table(mean_data,"Mean_HAR.txt",row.name=FALSE)
+write.table(mean_data,"Mean_HAR.txt",row.name=FALSE)
